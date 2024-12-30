@@ -10,10 +10,10 @@ class Model private constructor() {
 
     init {
             val student = Student(
-                name = "Sahar Yosef",
-                id = "202321232",
-                address = "Tel-Aviv",
-                phone = "123456789",
+                name = "Random User",
+                id = "123456789",
+                address = "Somewhere",
+                phone = "987654321",
                 avatarUrl = "",
                 isChecked = false
             )
